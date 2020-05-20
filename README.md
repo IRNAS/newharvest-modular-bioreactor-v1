@@ -12,7 +12,8 @@ The aim of this project was to develop and build a ‘modular bioreactor for mus
 ## Table of Contents
 - [System functionality](#sys-fun)
 - [Specifications](specifications.md)
-- [Operation instructions](01_operation_instructions.md)
+- [Incubator operation instructions](incubator-operation-instructions.pdf)
+- [Tray operation instructions](tray-operation-instructions.pdf)
 - [Licence](#license)
 	
 ## System functionality <a id="sys-fun"></a>
